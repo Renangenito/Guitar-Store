@@ -1,0 +1,25 @@
+.itemMarca{
+    display: inline;
+    border: 0.1em solid aquamarine;
+    border-bottom: 4px solid aquamarine;
+    border-radius: 0.5em;
+    padding: 1em;
+    background-image: url(../../../public/assets/guitarras.jpg);
+    background-position: 45%;
+    background-repeat: no-repeat;
+}
+.itemTitulo{
+    color: aquamarine;
+}
+.itemImagem{
+    border: 0.1em solid aquamarine;
+}
+
+.itemMarca:hover{
+    opacity: 0.8;
+    cursor: pointer;
+
+}
+.itemMarca:active{
+    opacity: 1;
+}

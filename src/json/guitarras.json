@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "marca": "Fender",
+        "tituloImagem1": "Stratocaster",
+        "imagem1": "https://www.fender.com.br/imgs/produtos/details/fender_10170079.png",
+        "altImagem1": "Guitarra Fender modelo Stratocaster",
+        "tituloImagem2": "Mustang",
+        "imagem2": "https://www.fender.com.br/imgs/produtos/details/fender_10172640.png",
+        "altImagem2": "Guitarra Fender modelo Mustang",
+        "tituloImagem3": "Telecaster",
+        "imagem3": "https://www.fender.com.br/imgs/produtos/details/fender_10172349.png",
+        "altImagem3": "Guitarra Fender modelo Telecastercaster"
+    },
+    {
+        "id": 2,
+        "marca": "Gibson",
+        "tituloImagem1": "Les Paul",
+        "imagem1": "https://images.ctfassets.net/m8onsx4mm13s/6MxQ8vJFZ5tQmfl7tII1OJ/c2ccc7ac14a18e42d9a4e510c5ebd014/LPS6F002HNH1_front.png?fit=fill&w=250&h=500",
+        "altImagem1": "Guitarra Gibson modelo Les Paul",
+        "tituloImagem2": "SG",
+        "imagem2": "https://images.ctfassets.net/m8onsx4mm13s/ItfBKLkgZTLCKxKyTKImM/5c77ef946c0f54f6871ccda804422e8b/SG61VF00AYNH1_front.png?fit=fill&w=250&h=500",
+        "altImagem2": "Guitarra Gibson modelo SG",
+        "tituloImagem3": "Flying V",
+        "imagem3": "https://images.ctfassets.net/m8onsx4mm13s/9fEIkEAYWrzXifYy5BRXh/22586dd2e0ad72b1a6f6ab17ebcb7e6b/CSDMFVEBVONH1_front.png?fit=fill&w=250&h=500",
+        "altImagem3": "Guitarra Gibson modelo Flying V"
+    },
+    {
+        "id": 3,
+        "marca": "Ibanez",
+        "tituloImagem1": "Jem 77FP",
+        "imagem1": "https://i.pinimg.com/originals/9a/15/85/9a15855f6d48f9147d0829ec78f55e4a.png?fit=fill&w=90&h=150",
+        "altImagem1": "Guitarra Ibanez modelo Jem 77FP",
+        "tituloImagem2": "jem 505",
+        "imagem2": "https://i.pinimg.com/originals/69/c6/52/69c65289a43f240f288aed4bc890c838.png",
+        "altImagem2": "Guitarra Ibanez modelo jem 505",
+        "tituloImagem3": "jem 2k",
+        "imagem3": "https://i.pinimg.com/originals/a8/11/35/a8113567de7795d7421305a1f8c6e875.png",
+        "altImagem3": "Guitarra Ibanez modelo jem 2k"
+    },
+    {
+        "id": 4,
+        "marca": "Gretsch",
+        "tituloImagem1": "Electromatic G5421",
+        "imagem1": "https://img3.gratispng.com/dy/f9ceb4adba5be9fde874a03a577d521d/L0KzQYm3WcI5N6lBjZH0aYP2gLBuTfdzbaV4e9o2Z0W3Qn7xhgQua516ep9ubHXmhMPwg71ofZp5eeQ2Z4LohMTqiL1mdJZoRdl7ZYT2c7m0VfJibJU2TdVuMES5doW1UsQ0PWE8Tas6NUO7QYKAWcgxQWI9T5D5bne=/kisspng-gretsch-g542-jet-club-electric-guitar-gretsch-elec-gretsch-5badd15ce046f4.2435075915381179809187.png",
+        "altImagem1": "Guitarra Gretsch modelo Electromatic",
+        "tituloImagem2": "Electromatic G5622T",
+        "imagem2": "https://img3.gratispng.com/dy/ee28b11cf7a3158ed3aced39f8522531/L0KzQYm3VMA0N5pofZH0aYP2gLBuTfdzbaV4e9o2c3XweX7ogB92e6Vue59wdXn3ccO0gvloe5NARehyYoLkhLE0lPFqdKFuRdd1ZXP3grrqTfd2caVmip8AYXO2cYK5hPVjP2M7UJC8OUO8QoS9V8E2OmM8T6I7MkG8RoW7TwBvbz==/kisspng-gretsch-semi-acoustic-guitar-bigsby-vibrato-tailpi-electric-guitar-5ac3a12deb7268.3939236715227702219644.png",
+        "altImagem2": "Guitarra Gretsch modelo Electromatic",
+        "tituloImagem3": "Streamliner G2655T",
+        "imagem3": "https://img3.gratispng.com/dy/17c96b880279ecff12237cdb4dcd7e02/L0KzQYm3WcI5N5Z2hJH0aYP2gLBuTfdzbaV4e9o2Z0K5RYb7TgN1epZmhd5ybnX1PbTsjwRmel5nhNHsaz3tgn7ukvV1e5RtRdl7ZYT2c7m0h8I3PWZ5ReV9cnXkfb3wjvUua5ZzjNd7LXLvf7TyTfpzNagyettwcz24crLsUMM2O2U7fdcCNz61QoaAV8MzQWI6S6o6M0C6R4K5WcA2NqFzf3==/kisspng-gretsch-g2655t-streamliner-center-block-jr-gretsch-gretsch-g2655t-streamline-center-block-jr-w-bigs-5bae035346ee77.2257732915381307712905.png",
+        "altImagem3": "Guitarra Gretsch modelo Streamliner"
+    }
+]

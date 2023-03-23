@@ -1,0 +1,25 @@
+.navegacao{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 10rem;
+    border: 0.2em solid #d97a0d;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 1em;
+}
+.logo{
+    color: #ee8813;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    color: #d97a0d;
+    gap: 1em;
+}
+.menu a{
+    color: #d97a0d;
+}
+.menu a:hover{
+    color: #ee8813;
+    text-decoration: underline;
+}

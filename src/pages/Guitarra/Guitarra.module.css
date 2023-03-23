@@ -1,0 +1,36 @@
+
+.tituloMarca{
+    color: aquamarine;
+}
+.SecaoCardGuitarra{
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    padding: 2em;
+}
+.cardGuitarra{
+    background: rgba(0, 0, 0, 0.5);
+
+}
+.cardGuitarra:hover{
+    background: #000;
+    cursor: pointer;
+}
+.cardGuitarra img{
+    max-width: 250px;
+    max-height: 500px;
+}
+.tituloModelo{
+    color: aquamarine;
+    background: rgba(0, 0, 0, 0.5);
+    line-height: 2rem;
+    
+}
+.botaoVoltar{
+    display: flex;
+    width: 57px;
+    height: 15px;
+    color: aquamarine;
+    text-decoration: underline;
+    cursor: pointer;
+}

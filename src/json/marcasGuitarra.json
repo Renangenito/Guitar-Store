@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "marca": "Fender",
+        "imagem": "https://www.twotone.com.br/cache/com_zoo/images/Logo_Fender_2_f9bcc0c3659ba6864d9fee150aed2f70.jpg",
+        "alt": "Logo da Fender"
+    },
+    {
+        "id": 2,
+        "marca": "Gibson",
+        "imagem": "https://www.twotone.com.br/cache/com_zoo/images/Logo_Gibson_9c8f1809197d7fcf8d59c9f8f98ed77d.jpg",
+        "alt": "Logo da Gibson"
+    },
+    {
+        "id": 3,
+        "marca": "Ibanez",
+        "imagem": "https://www.twotone.com.br/cache/com_zoo/images/Logo_Ibanez_dff2e56df0e51a49e3ac11aac89d0dbb.jpg",
+        "alt": "Logo da Ibanez"
+    }
+    ,{
+        "id": 4,
+        "marca": "Gretsch",
+        "imagem": "https://www.twotone.com.br/cache/com_zoo/images/Logo_Gretsch_2_9d99653640711c9760343a46d13b36d7.jpg",
+        "alt": "Logo da Gretsch"
+    }
+]
